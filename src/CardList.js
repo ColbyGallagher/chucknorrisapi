@@ -9,11 +9,6 @@ const CardList = ({ joke }) => {
             value={joke.value}
             />
         );
-    // return (
-    // //     <div>
-    // //         {cardComponent}
-    // //     </div>
-    // )
 }
 
 export default CardList;
